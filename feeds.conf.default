@@ -6,3 +6,4 @@ src-git istore https://github.com/linkease/istore
 src-git nas https://github.com/linkease/nas-packages.git
 src-git nas_luci https://github.com/linkease/nas-packages-luci.git
 src-git mihomo https://github.com/morytyann/OpenWrt-mihomo.git;main
+src-git lucky https://github.com/gdy666/luci-app-lucky.git
